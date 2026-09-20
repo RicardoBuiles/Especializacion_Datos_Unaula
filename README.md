@@ -1,0 +1,1 @@
+https://github.com/RicardoBuiles/Especializacion_Datos_Unaula/blob/main/Big_Data/informe_Final_Big_Data_Modelo_Aragon.pdf
